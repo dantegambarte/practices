@@ -1,0 +1,15 @@
+.card-size{
+    height: 12rem;
+    width: 25%;
+    margin: 0.5rem;
+}
+
+.card-red{
+    background-color: red;
+    color: gold;
+}
+
+.card-black{
+    background-color: black;
+    color: white;
+}
